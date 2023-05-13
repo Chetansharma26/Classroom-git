@@ -1,1 +1,1 @@
-Hello I am Chetan Sharma
+Hello I am Chetan Sharma. Today I have completed Git and Github tutorials.
